@@ -1,0 +1,1 @@
+# Qt-Image-Hash-with-multiple-methods
